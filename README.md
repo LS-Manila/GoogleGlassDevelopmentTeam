@@ -20,3 +20,8 @@ https://classroom.github.com/assignment-invitations/c45f01b49cca4e21cf1ae3804565
 * **How** would you develop the application?, i.e. describe the development tools, sdk, gdk, ide, etc.
 * What **experiments** are you going to perform to support your claims in the objectives?
 * What **data** are you going to present at the end of this thesis project?
+
+
+## Agenda (1-8-16)
+
+* PRO2 Consultation Schedule
